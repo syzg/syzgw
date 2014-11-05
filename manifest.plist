@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="2.4">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>http://114.215.134.141/dtts/active/dtts.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<false/>
+					<key>url</key>
+					<string>http://114.215.134.141/dtts/active/image.114x114.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>http://114.215.134.141/dtts/active/image.640x960.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>cn.eshore.EasyGoEnterprise</string>
+				<key>bundle-version</key>
+				<string>2.4</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>subtitle</key>
+				<string>Guangdong Eshore Technology Co., Ltd.</string>
+				<key>title</key>
+				<string>DTTS</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

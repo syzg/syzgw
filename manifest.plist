@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="2.4">
+<plist version="2.5">
 <dict>
 	<key>items</key>
 	<array>
@@ -35,7 +35,7 @@
 				<key>bundle-identifier</key>
 				<string>cn.eshore.EasyGoEnterprise</string>
 				<key>bundle-version</key>
-				<string>2.4</string>
+				<string>2.5</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
